@@ -6,7 +6,7 @@ import AppContext from './env';
 import angy from './images/angy.png';
 
 // set document title (keeps previous behavior)
-document.title = `${AppContext()} Complaint Portal — Dashboard`;
+document.title = `${AppContext()} complaint portal`;
 
 // swaps the link rel=icon tag, for some reason manifest file no work
 (() => {
